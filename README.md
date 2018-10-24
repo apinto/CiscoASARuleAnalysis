@@ -1,9 +1,9 @@
 # CiscoASARuleAnalysis (asaACLanalysis.py)
-Cisco ASA Firewall access list analysis tool 
+# Cisco ASA Firewall access list analysis tool 
 
 Should you have a Cisco ASA Firewall with thousand of ACL lines accumulated over the years and you need a tool to help you to clean up useless rules, this scrip may help you.
 
-Tasks that the scrip may perform (menu presented):
+# Tasks that the scrip may perform (tools' menu):
 
 (F) - Fetch data from device via ssh
 
@@ -30,7 +30,7 @@ Tasks that the scrip may perform (menu presented):
 
 (10) - Check if rules (from file) already exists in the DB
 
-This Tool requires data that may be fetched via ssh (manual clean up is required) or provided offline. Sample files are provided.
+#This Tool requires data that may be fetched via ssh (manual clean up is required) or provided offline. Sample files are provided.
 
-
+# A Mysql DB is required 
 
