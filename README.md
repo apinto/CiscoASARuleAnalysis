@@ -30,9 +30,9 @@ Should you have a Cisco ASA Firewall with thousand of ACL lines accumulated over
 
 (10) - Check if rules (from file) already exists in the DB
 
-#This Tool requires data that may be fetched via ssh (manual clean up is required) or provided offline. Sample files are provided.
+#This Tool requires input data that may be fetched via ssh (manual clean up is required) or provided offline (see options F and H). 
 
 ## A Mysql DB or Maria DB is required 
 
-This script has been written by a Network Engineer and therefore most likely is not following all the best coding practices and lots of improvements can me made. 
+This script has been written by a Network Engineer (not a programmer) and therefore most likely is not following all the best coding practices and lots of improvements can me made. 
 All types of positive contributions and/or constructive comments are welcomed 
