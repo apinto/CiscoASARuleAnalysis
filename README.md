@@ -28,5 +28,9 @@ Tasks that the scrip may perform (menu presented):
 
 (9) - Check if single rule (interactive) already exists in the DB
 
-(10) - Check if rules already (from file) exists in the DB
+(10) - Check if rules (from file) already exists in the DB
+
+This Tool requires data that may be fetched via ssh (manual clean up is required) or provided offline. Sample files are provided.
+
+
 
