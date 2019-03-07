@@ -34,5 +34,5 @@ Should you have a Cisco ASA Firewall with thousand of ACL lines accumulated over
 
 ## A Mysql DB or Maria DB is required 
 
-This script has been written by a Network Engineer (not a programmer) and therefore most likely is not following all the best coding practices and lots of improvements can me made. 
+This script has been written by a Network Engineer (not a Developer) and therefore most likely is not following all the best coding practices. 
 All types of positive contributions and/or constructive comments are welcomed 
